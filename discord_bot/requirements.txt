@@ -1,0 +1,5 @@
+discrod.py
+Pillow
+requests
+ffmpeg-python
+PyNaCl
